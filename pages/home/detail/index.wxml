@@ -1,0 +1,6 @@
+<!--pages/home/detail/index.wxml-->
+<view class='content'>
+  <!-- <rich-text nodes='{{nodes1}}'></rich-text>
+  <rich-text nodes='{{btn}}' bindtap="tap"></rich-text> -->
+  <web-view src="http://www.chinabyte.com/w/n/yanghao/imgtest/img.html"></web-view>
+</view>
